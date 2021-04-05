@@ -1,0 +1,38 @@
+        #title1{
+    color: seagreen;
+}
+p{
+    background-color: burlywood;
+}
+body{
+    color:skyblue;
+}
+p{
+    font-size: large;
+    border: 10px solid black;
+}
+.tron{
+    width: 3rem;
+    height: 3rem;
+    background-color: blue;
+    border-radius: 1.5rem;
+}
+.box{
+    width: 6rem;
+    height: 3rem;
+    background-color: brown;
+    border: 3px solid black;
+}
+.conten{
+    width: 2em;
+    height: 2em;
+    background-color: blue;
+    margin: 0.5rem;
+}
+/*
+class và id thi ưu tiên id trước
+siza 3loai:  px, em quy theo cha hoac chinh no, rem quy the goc.
+em dùng trong trường hợp 
+px dùng trong trường hợp
+rem dùng trong trường hợp
+*/
